@@ -1,0 +1,6 @@
+Component_ID	Component_Type	Component_Name	Component_Description	Component_Price
+799876	Processor	WD Desktop Black 2TB 3.5"	SATA 6GB/s (SATA 3.0), 64MB Cache, 7200RPM	2063.0
+1119332	Graphics card	ASUS GeForce RTX 2080 Ti ROG Strix	Grafikkort, PCI-Express 3.0, 11GB GDDR6	11516.0
+926080	Motherboard	ASUS Tuf X299 MARK 1, Socket-2066	Hovedkort, ATX, X299, DDR4, 3xPCle-x16	3599.0
+752033	RAM	Crucial DDR3L 1600MHz 8GB SODIMM	8GB 1600Mhz (PC3L-12800)	504.0
+975808	HDD/SSD	Samsung 860 EVO 1TB SSD	SATA 3.0, 2.5", V-NAND MLC	1559.0

@@ -1,0 +1,6 @@
+Component_ID	Component_Type	Component_Name	Component_Description	Component_Price
+1119332	Graphics card	ASUS GeForce RTX 2080 Ti ROG Strix	Grafikkort, PCI-Express 3.0, 11GB GDDR6	11516.0
+926080	Motherboard	ASUS Tuf X299 MARK 1, Socket-2066	Hovedkort, ATX, X299, DDR4, 3xPCle-x16	3599.0
+1119944	HDD/SSD	Samsung 860 QVO 1TB SSD	SATA 3.0, 2.5", V-NAND MLC	1191.0
+978512	Monitor	Samsung 28" LED FreeSynC LU28E85	3840x2160, 1ms, 1000:1, Pivot	3996.0
+763346	Keyboard	Logitech K120 Keyboard for Business	Cabled, Water resistant, flat	119.0

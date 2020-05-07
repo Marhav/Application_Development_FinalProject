@@ -1,0 +1,2 @@
+Component_ID	Component_Type	Component_Name	Component_Description	Component_Price
+799876	Processor	WD Desktop Black 2TB 3.5"	SATA 6GB/s (SATA 3.0), 64MB Cache, 7200RPM	2063.0

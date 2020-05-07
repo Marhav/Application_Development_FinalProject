@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.CheckBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane minHeight="317.0" minWidth="432.0" prefHeight="680.0" prefWidth="825.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.sample.controllers.RegisterUserController">
+   <children>
+      <Label layoutX="350.0" layoutY="99.0" text="New User">
+         <font>
+            <Font size="23.0" />
+         </font>
+      </Label>
+      <TextField fx:id="txtUserEmail" layoutX="251.0" layoutY="164.0" promptText="Email" />
+      <TextField fx:id="txtUserFirstName" layoutX="251.0" layoutY="214.0" promptText="First name" />
+      <TextField fx:id="txtUserLastName" layoutX="251.0" layoutY="264.0" promptText="Last name" />
+      <TextField fx:id="txtUserPhone" layoutX="251.0" layoutY="313.0" promptText="Phonenumber" />
+      <PasswordField fx:id="txtPassword" layoutX="251.0" layoutY="364.0" promptText="Password" />
+      <PasswordField fx:id="txtRePassword" layoutX="251.0" layoutY="410.0" promptText="Repeat password" />
+      <CheckBox fx:id="chkAdminUserId" layoutX="424.0" layoutY="168.0" mnemonicParsing="false" onAction="#chkAdminUser" text="Admin User" />
+      <TextField fx:id="txtAdminUsername" disable="true" layoutX="424.0" layoutY="364.0" promptText="Admin username" />
+      <PasswordField fx:id="txtAdminPassword" disable="true" layoutX="424.0" layoutY="410.0" promptText="admin password" />
+      <Button layoutX="250.0" layoutY="488.0" mnemonicParsing="false" onAction="#btnRegister" prefHeight="26.0" prefWidth="149.0" text="Register" />
+      <Button layoutX="423.0" layoutY="488.0" mnemonicParsing="false" onAction="#btnBack" prefHeight="26.0" prefWidth="149.0" text="Back to login" />
+      <Label fx:id="lblErrorData" layoutX="252.0" layoutY="455.0" prefHeight="17.0" prefWidth="342.0" textFill="RED" />
+   </children>
+</AnchorPane>
