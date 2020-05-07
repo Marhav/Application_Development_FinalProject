@@ -7,9 +7,15 @@ public class Cabinet extends Component {
     private transient String responseTime;
 
 
-    public Cabinet(String componentID, String componentType, String componentName, String componentDescription, double componentPrice) {
-        super(componentID, componentType, componentName, componentDescription, componentPrice);
+    public Cabinet(String componentID, String componentType, String componentName, double componentPrice) {
+        super(componentID, componentType, componentName, componentPrice);
     }
+
+    @Override
+    public void setDescription(){
+
+    }
+
 
     public void setResolution(){
 
@@ -32,6 +38,6 @@ public class Cabinet extends Component {
     }
 
     public String getResponseTime(){
-        
+
     }
 }
