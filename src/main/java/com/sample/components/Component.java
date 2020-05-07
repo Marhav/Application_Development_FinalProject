@@ -13,7 +13,7 @@ import java.io.Serializable;
  * Class representing an individual component.
  */
 
-public class Component implements Serializable {
+abstract class Component implements Serializable {
 
     private static final long serialVersionUID = 1L;
 
