@@ -1,2 +1,2 @@
-# semesteroppgave_data1600-master-2-master
+# semesteroppgave_data1600
  
